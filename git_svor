@@ -33,3 +33,16 @@ b. git log sýnir öll commits, sérð hvað fólk er búið að gera við gögn
 c. status sýna hvort sé búið að adda eða commit files. 
 d. gif sýnir breytingar milli commmits and working tree. 
 e. skipta milli branches eða endurheimta eitthvað sem virkaði áður.
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+Svör : 
+
+3.	
+a. git diff: sýnir breytingar milli commits og working tree
+b. git diff --staged: sýnir breytingar sem hafa verið staged
+c. git diff commit1 commit2: sýnir breytingar milli tveggja commits
