@@ -71,3 +71,10 @@ Svar :
 svar : 
 
 7. working stage þegar þú ert að vinna í því, staging area áður en þú commit að repository. 
+
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+Svar : 
+
+8. Þegar þú vilt prófa eitthvað nýtt án þess að skemma basic grunn að verkefninu/forritinu 
