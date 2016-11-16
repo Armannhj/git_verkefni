@@ -66,3 +66,8 @@ Svar :
 
 6. á 30mín fresti eða eftir ég náði að laga eitthvað, eða áður en ég prófa eitthvað nýtt. tími getur hækkað eða lækkað miða við hvað ég er að vinna mikið.
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+svar : 
+
+7. working stage þegar þú ert að vinna í því, staging area áður en þú commit að repository. 
