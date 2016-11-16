@@ -1,1 +1,19 @@
 Git spurningar og svör
+
+Hvað gera eftirfarandi Linux skipanir?
+	
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd 
+	cd ~
+	ls
+	pwd
+	mkdir
+
+Svör : 
+
+1. 
+a. Skipta um current diretory
+b. cd ~ er homeshortcut
+c. list directory
+d. sýna núverandi directory
+e. gerir nýtt directory 
