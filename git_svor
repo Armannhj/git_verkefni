@@ -17,3 +17,19 @@ b. cd ~ er homeshortcut
 c. list directory
 d. sýna núverandi directory
 e. gerir nýtt directory 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+Svör : 
+
+2.
+a. Nær í repository frá vef á tölvuna þína. Getur unnið offline til dæmis.
+b. git log sýnir öll commits, sérð hvað fólk er búið að gera við gögn sem þú ert að vinna í 
+c. status sýna hvort sé búið að adda eða commit files. 
+d. gif sýnir breytingar milli commmits and working tree. 
+e. skipta milli branches eða endurheimta eitthvað sem virkaði áður.
